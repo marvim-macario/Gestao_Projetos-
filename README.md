@@ -1,2 +1,2 @@
 # Gestao_Projetos-
-DEsenvolvimento de Sistema para ATG assitencia yécnica e vendas 
+Desenvolvimento de Sistema para ATG assitencia técnica e vendas 
